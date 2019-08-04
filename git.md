@@ -82,7 +82,8 @@ git config credential.helper store
 ```
 
 # 复制git仓库
-```git clone 网址
+```
+git clone 网址
 ```
 
 # 看项目最新进展
